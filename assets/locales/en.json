@@ -1,0 +1,17 @@
+{
+    "title": "Hello World",
+     "welcome": "Welcome to my app!",
+     "reload": "Reload",
+     "country": "Country",
+     "region name": "Region Name",
+     "city": "City",
+     "timezone": "Timezone",
+     "rate app": "Rate App",
+     "share app": "Share App",
+     "contact us": "Contact us",
+     "our rating": "Our rating",
+     "cancel": "Cancel",
+     "submit": "Submit",
+     "example share app": "Example share app",
+     "share your app": "Share your app"
+}
